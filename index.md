@@ -11,15 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# kbeznak parmatonic
 
-- Bulleted
-- List
+ kbeznak parmatonic is a new term which in English means "being preposterous".
+ 
+ This term is coined by Dr. James Caverlee from Texas A&M University.
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
